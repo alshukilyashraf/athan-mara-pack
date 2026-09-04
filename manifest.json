@@ -1,0 +1,15 @@
+{
+  "format": "MARAP01",
+  "manifest_version": 1,
+  "pack_version": 1,
+  "coverage_start": "2026-08-30",
+  "coverage_end": "2027-08-29",
+  "days": 365,
+  "city_slots": 78,
+  "complete_city_slots": 77,
+  "official_city_days": 28105,
+  "total_city_days": 28470,
+  "coverage_percent": 98.72,
+  "binary_size": 284720,
+  "file": "mara_year.bin"
+}
