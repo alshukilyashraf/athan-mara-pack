@@ -1,9 +1,9 @@
 {
   "format": "MARAP01",
   "manifest_version": 1,
-  "pack_version": 1,
+  "pack_version": 2,
   "coverage_start": "2026-08-30",
-  "coverage_end": "2027-08-29",
+  "coverage_end": "2027-08-30",
   "days": 365,
   "city_slots": 78,
   "complete_city_slots": 77,
